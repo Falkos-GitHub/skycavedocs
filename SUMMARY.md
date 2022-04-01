@@ -8,6 +8,7 @@
   * [Berufe](systeme/job-system/berufe.md)
 * [SkyBee Inseln](systeme/skybee-inseln.md)
 * [Levelbare Trichter](systeme/levelbare-trichter.md)
+* [Bienen](systeme/bienen.md)
 
 ## Events
 
