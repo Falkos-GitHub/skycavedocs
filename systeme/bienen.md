@@ -31,8 +31,11 @@ Bienen fliegen aus dem Nest heraus und begeben sich dann auf die Suche nach Blum
 
 Mit den gefarmten Honigwaben kannst du Rechtsklick auf ein Bienennest ausführen. Am Besten stellst du vorher ein neues Nest her. Die Stufe des Nestes steigt nun, wie man über der Inventarleiste sehen kann. Sobald das erste Level erreicht ist, solltest du ein Werkzeug mit Behutsamkeit verwenden, denn sonst wird das Level nicht gespeichert. Wenn eine Biene ein Nest mit erhöhtem Level mit Honig füllt und du es wie oben beschrieben mit einer Flasche erntest, dann gibt es eine Chance auf bestimmte Rohstoffe, die zusätzlich droppen.
 
-| Material | Ab Level | Anfangschance |
-| -------- | -------- | ------------- |
-|          |          |               |
-|          |          |               |
-|          |          |               |
+| Rohstoff        | Ab Level (Chance) | Steigt bis Level (Chance) |
+| --------------- | ----------------- | ------------------------- |
+| Erfahrungskugel | 1 (10%)           | 50 (50%                   |
+| Kohle           | 51 (10%)          | 100 (44%)                 |
+| Eisenerz        | 101 (10%)         | 150 (35%)                 |
+| Golderz         | 151 (10%)         | 200 (30%)                 |
+| Smaragd         | 201 (10%)         | 250 (27%)                 |
+| Diamant         | 251 (10%)         | 300 (20%)                 |
