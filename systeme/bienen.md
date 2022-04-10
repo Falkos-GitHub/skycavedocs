@@ -6,9 +6,9 @@ description: Alles rund um Bienen auf unserem Server
 
 ### Einleitung und Voraussetzungen
 
-Seit der 1.14 gibt es in Minecraft die Bienen, von diesen bekommt man Honigwaben und Honig. Bienen spawnen jedoch nicht einfach so, man muss dabei etwas nachhelfen. In dem Nest auf deiner Startinsel sind leider noch keine Bienen enthalten.
+Seit der 1.15 gibt es in Minecraft die Bienen, von diesen bekommt man Honigwaben und Honig. Bienen spawnen jedoch nicht einfach so, man muss dabei etwas nachhelfen. In dem Nest auf deiner Startinsel sind leider noch keine Bienen enthalten.
 
-Das Wichtigste ist das Ändern des Bioms. Um es zu ändern, gib "/is biomes" ein und wechsel zum Biom "Plains" oder "Blumenwald". Dazu solltest du beachten, dass Bienen in SkyBlock oftmals selbstmörderische Tendenzen haben, also baut vorher einen großen Raum, sodass die Bienen nicht abhauen können (genug Licht und Platz sind wichtig).
+Das Wichtigste ist das Ändern des Bioms. Um es zu ändern, gib "/is biomes" ein und wechsle zum Biom "Plains" oder "Blumenwald". Dazu solltest du beachten, dass Bienen in SkyBlock oftmals selbstmörderische Tendenzen haben, also baue vorher einen großen Raum, sodass die Bienen nicht abhauen können (genug Licht und Platz sind wichtig).
 
 Folgende vier Dinge werden für das Züchten von Bienen benötigt:
 
