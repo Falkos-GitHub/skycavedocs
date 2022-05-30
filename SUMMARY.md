@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Dokumentation](README.md)
+* [Regelwerk](regelwerk.md)
 
 ## Systeme
 
