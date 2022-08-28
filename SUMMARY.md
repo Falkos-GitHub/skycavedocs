@@ -16,6 +16,11 @@
 * [Abbau Event](events/abbau-event.md)
 * [Sonstige Events](events/sonstige-events.md)
 
+## Farming
+
+* [Nether](farming/nether.md)
+* [Farmbereiche](farming/farmbereiche.md)
+
 ## Befehle
 
 * [Inselsystem](befehle/inselsystem.md)
