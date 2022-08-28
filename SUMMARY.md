@@ -14,6 +14,7 @@
 ## Events
 
 * [Abbau Event](events/abbau-event.md)
+* [Sonstige Events](events/sonstige-events.md)
 
 ## Befehle
 
