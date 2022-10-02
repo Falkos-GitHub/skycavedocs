@@ -12,8 +12,8 @@ Um zu unserem Modus SkyBee zu gelangen, musst du in unserer Lobby den Kompass in
 
 Solltest du die Antwort auf deine Frage hier nicht finden können, kannst du das Team gerne über unseren [Discord](https://discord.com/invite/zdmkTvg) kontaktieren.
 
-Für Informationen über die käuflichen Ränge siehe [unser Store](https://skycave.buycraft.net).
+Für Informationen über die käuflichen Ränge siehe [unser Store](https://skycave.buycraft.net/).
 
 {% hint style="info" %}
-Jeder kann unseren Server mit Minecraft 1.18.2 unter dieser Adresse betreten: `skycave.de`
+Jeder kann unseren Server mit Minecraft 1.19.2 unter dieser Adresse betreten: `skycave.de`
 {% endhint %}
