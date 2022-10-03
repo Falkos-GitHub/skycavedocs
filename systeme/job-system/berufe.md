@@ -22,6 +22,7 @@ Auf dieser Seite sind alle Items aufgelistet, die du mit den jeweiligen Berufen 
 | Birkenstamm           | 6$ pro Stück    |
 | Akazienstamm          | 7$ pro Stück    |
 | Tropenbaumstamm       | 5$ pro Stück    |
+| Mangrovenstamm        | 5$ pro Stück    |
 | Eichenlaub            | 4$ pro 64 Stück |
 | Schwarzeichenlaub     | 4$ pro 64 Stück |
 | Fichtennadeln         | 4$ pro 64 Stück |
