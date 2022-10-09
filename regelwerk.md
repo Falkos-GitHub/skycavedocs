@@ -187,7 +187,7 @@ Diese Liste dient rein zur Orientierung!
 5. Mob-Spawner sind auf normalen Inseln auf 10 limitiert (davon max. 1 Eisengolem Spawner) und auf SB-Inseln auf 30 limitiert (davon max. 3 Eisengolem Spawner).
 6. Herkömmliche Eisenfarmen mit Dorfbewohnern werden jeweils als ein Eisengolem Spawner gezählt.
 7. Normale Mobfarmen (mit einem dunklen Raum als Spawnbereich) dürfen maximal 2 Etagen besitzen und die Größe von 4 Chunks nicht überschreiten (entspricht max. 32x32 Blöcken).
-8. Es dürfen höchstens 12 Dorfbewohner pro Insel für Farming eingesetzt werden.
+8. Es dürfen höchstens 12 Dorfbewohner pro Insel für Farming eingesetzt werden. Das gilt auch für SB-Inseln.
 9. Dörfer oder sogenannte Breeder (Zuchtmaschinen) müssen umzäunt oder eingebaut sein, sodass die Dorfbewohner den Chunk nicht verlassen können. Es dürfen maximal 8 Betten verbaut werden.
 10. Lange Trichterwege müssen mit den levelbaren Trichtern übergangen werden.
 11. Der Nether darf nicht für (halb-)automatische Farmen genutzt werden, alle Items müssen manuell gefarmt werden.

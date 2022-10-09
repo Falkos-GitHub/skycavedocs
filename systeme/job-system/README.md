@@ -6,13 +6,11 @@ Das Hauptmenü für die Berufe kannst du am Spawn beim Meister der Berufe aufruf
 
 ## Befehle
 
-| Befehl                  | Alias                    | Funktion                                     |
-| ----------------------- | ------------------------ | -------------------------------------------- |
-| /job                    | /jobs                    | Auswahl der Berufe                           |
-| /job statistics         | /jobs statistics         | Zeigt die globale Verteilung aller Berufe an |
-| /job statistics \<Name> | /jobs statistics \<Name> | Zeigt den Beruf eines Spielers an            |
-| /gsell                  | /globalsell, /gankauf    | Allgemeiner/Globaler Ankauf                  |
-| /sell                   | /ankauf                  | Persönlicher Ankauf                          |
+| Befehl | Alias                 | Funktion                    |
+| ------ | --------------------- | --------------------------- |
+| /job   | /jobs                 | Auswahl der Berufe          |
+| /gsell | /globalsell, /gankauf | Allgemeiner/Globaler Ankauf |
+| /sell  | /ankauf               | Persönlicher Ankauf         |
 
 ## Berufswechsel
 
