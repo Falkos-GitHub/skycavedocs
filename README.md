@@ -8,7 +8,7 @@ coverY: 0
 
 Hierbei handelt es sich um eine Sammlung hilfreicher Informationen für die Spieler unseres Spielmodus SkyBlock. Wenn du dich schlau machen möchtest oder einfach mal etwas vergessen hast, dann ist hier die richtige Anlaufstelle zum Nachlesen.
 
-Um zu unserem Modus SkyBee zu gelangen, musst du in unserer Lobby den Kompass in die Hand nehmen. Per Rechtsklick kannst du dann ein Menü öffnen, wo du anschließend auf den Grasblock klicken musst.
+Um zu unserem Modus SkyBlock zu gelangen, musst du in unserer Lobby den Kompass in die Hand nehmen. Per Rechtsklick kannst du dann ein Menü öffnen, wo du anschließend auf den Grasblock klicken musst.
 
 Solltest du die Antwort auf deine Frage hier nicht finden können, kannst du das Team gerne über unseren [Discord](https://discord.com/invite/zdmkTvg) kontaktieren.
 

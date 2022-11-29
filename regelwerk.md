@@ -202,3 +202,4 @@ Diese Liste dient rein zur Orientierung!
 6. Das hinterlistige Töten in Skyblock ist verboten. Dazu gehören beispielsweise Spawnfallen.
 7. Das automatisierte Ausführen von Aktionen durch Skripte oder Bots ist verboten.
 8. Bugs und Fehler auf unserem Server sind unverzüglich einem Teammitglied zu melden. Deren Ausnutzung ist strengstens untersagt.
+9. Das Duplizieren von Items und jegliche Farmen, die vergleichbare Methoden involvieren, zählen als Bug-Using und sind deshalb ebenfalls verboten.
