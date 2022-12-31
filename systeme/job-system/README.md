@@ -6,11 +6,14 @@ Das Hauptmenü für die Berufe kannst du am Spawn beim Meister der Berufe aufruf
 
 ## Befehle
 
-| Befehl | Alias                 | Funktion                    |
-| ------ | --------------------- | --------------------------- |
-| /job   | /jobs                 | Auswahl der Berufe          |
-| /gsell | /globalsell, /gankauf | Allgemeiner/Globaler Ankauf |
-| /sell  | /ankauf               | Persönlicher Ankauf         |
+| Befehl                  | Alias                    | Funktion                                     |
+| ----------------------- | ------------------------ | -------------------------------------------- |
+| /job                    | /jobs                    | Auswahl der Berufe                           |
+| /job statistics         | /jobs statistics         | Zeigt die globale Verteilung aller Berufe an |
+| /job statistics \<Name> | /jobs statistics \<Name> | Zeigt den Beruf eines Spielers an            |
+| /gsell                  | /globalsell, /gankauf    | Allgemeiner/Globaler Ankauf                  |
+| /sell                   | /ankauf                  | Persönlicher Ankauf                          |
+| /sellall                |                          | Verkauft alle Items aus deinem Inventar      |
 
 ## Berufswechsel
 
@@ -30,3 +33,7 @@ Der Beruf kann nur alle 48 Stunden gewechselt werden.
 * Es gibt einen allgemeinen und einen persönlichen Ankauf, bei denen du jeweils beliebig viele Items verkaufen kannst.
 * Der allgemeine Ankauf steht jedem jederzeit zur Verfügung, enthält dafür aber auch nur grundlegende Items. Manche Berufe bieten teilweise die selben Items mit besseren Preisen an.
 * Der persönliche Ankauf wird durch deinen Beruf verändert. Jeder Beruf hat eine eigene Auswahl an Items, die du verkaufen kannst, welche dann in deinem persönlichen Ankauf verfügbar sind.
+
+## Instant Verkauf Item
+
+Das Instant Verkauf Item kann im VoteCoinShop (/vcshop) für 1200 VoteCoins erworben werden. Mit dem Item kann man per Rechtsklick auf eine Kiste alle Items daraus ans Job System verkaufen.
