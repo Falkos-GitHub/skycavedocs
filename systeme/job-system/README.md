@@ -13,7 +13,7 @@ Das Hauptmenü für die Berufe kannst du am Spawn beim Meister der Berufe aufruf
 | /job statistics \<Name> | /jobs statistics \<Name> | Zeigt den Beruf eines Spielers an            |
 | /gsell                  | /globalsell, /gankauf    | Allgemeiner/Globaler Ankauf                  |
 | /sell                   | /ankauf                  | Persönlicher Ankauf                          |
-| /sellall                |                          | Verkauft alle Items aus deinem Inventar      |
+| /sellall (ab Hornisse)  |                          | Verkauft alle Items aus deinem Inventar      |
 
 ## Berufswechsel
 
